@@ -11,7 +11,7 @@ To tackle this challenge, this repository introduces a modular, multi-stage rest
 
 > **📌 Interactive Notebook & Live Results on Kaggle**  
 > You can view, run, and inspect the full executed notebook, training logs, intermediate visualizations, and complete evaluation metrics directly on Kaggle:  
-> 👉 **[Open Full DIP Final Project Notebook on Kaggle](https://www.kaggle.com/code/amiraliaraghi/dip-final-project?scriptVersionId=337595104)**
+> 👉 **[Open Final Project Notebook on Kaggle](https://www.kaggle.com/code/amiraliaraghi/dip-final-project?scriptVersionId=337595104)**
 
 
 ---
