@@ -119,7 +119,7 @@ SUCCESS: Semantic information successfully recovered!
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/osumy/DIP-Final-Project.git](https://github.com/osumy/DIP-Final-Project.git)
+   git clone https://github.com/osumy/DIP-Final-Project.git
    cd DIP-Final-Project
    ```
 
